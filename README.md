@@ -19,12 +19,7 @@ out [AnalyticsEventGeneratorSample-SharedLibrary](https://github.com/zawadz88/An
 To do so:
 
 - build the library in AnalyticsEventGeneratorSample-SharedLibrary with `./gradlew assemble`
-<<<<<<< HEAD
-- install pod in `AnalyticsEventGeneratorSample-iOSApp` via `pod install`
-- open in XCode via `SampleiOSApp.xcworkspace` so that Cocoapods works as expected
-=======
 - edit `AnalyticsEventGeneratorSample-iOSApp/Podfile` and replace the Pod location to a local one as suggested in that
   file
 - update pods via `pod update`
 - open in XCode via `SampleiOSApp.xcworkspace` so that Cocoapods works as expected (or run through Fleet)
->>>>>>> d61786c (set up with remote pod)
