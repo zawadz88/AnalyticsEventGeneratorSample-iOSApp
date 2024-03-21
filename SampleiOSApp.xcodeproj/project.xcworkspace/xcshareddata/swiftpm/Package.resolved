@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "analyticseventgeneratorsample-sharedlibrary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zawadz88/AnalyticsEventGeneratorSample-SharedLibrary",
+      "state" : {
+        "revision" : "1b2102dcb10aa74b0b7c7bbbedebce935af7c545",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
