@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/zawadz88/AnalyticsEventGeneratorSample-SharedLibrary",
       "state" : {
-        "revision" : "1b2102dcb10aa74b0b7c7bbbedebce935af7c545",
-        "version" : "1.0.0"
+        "revision" : "92a7864dbaaf9951543d80bc08ab20640178410d",
+        "version" : "1.0.11"
       }
     }
   ],

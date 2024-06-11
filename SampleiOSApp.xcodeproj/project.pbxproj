@@ -357,7 +357,7 @@
 			repositoryURL = "https://github.com/zawadz88/AnalyticsEventGeneratorSample-SharedLibrary";
 			requirement = {
 				kind = exactVersion;
-				version = 1.0.0;
+				version = 1.0.11;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */

@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Run Debug SampleiOSApp",
+            "type": "xcode-app",
+            "workingDir": "$PROJECT_DIR$",
+            "buildTarget": {
+                "project": "SampleiOSApp",
+                "target": "SampleiOSApp"
+            },
+            "configuration": "Debug"
+        }
+    ]
+}
